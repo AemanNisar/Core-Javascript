@@ -47,3 +47,5 @@ console.log(j);
 // console.log(name);
 console.log(number)
 var number=5;
+
+// const 
