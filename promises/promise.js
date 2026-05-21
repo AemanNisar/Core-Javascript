@@ -33,11 +33,11 @@ asyncFunction1().then((res) => {
 });
 
 
-function api(){
-    setTimeout(() => {
+// function api(){
+//     setTimeout(() => {
         
-    }, timeout);
-    return new Promise((resolve,reject)=>{
-        resolve("weather data")
-    })
-}
+//     }, timeout);
+//     return new Promise((resolve,reject)=>{
+//         resolve("weather data")
+//     })
+// }
